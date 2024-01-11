@@ -1,4 +1,24 @@
 
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Embedded Power BI Report</title>
+
+</head>
+
 <body>
-  <iframe title="practise" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=0aeba6c0-2078-4dfc-ac1e-e1325972a53e&autoAuth=true&ctid=ff15c67c-2870-4e9f-adc1-7d61d855b667" frameborder="0" allowFullScreen="true"></iframe>
+ 
+    <h1>Welcome to My GitHub Pages</h1>
+
+    <iframe title="practise" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=0aeba6c0-2078-4dfc-ac1e-e1325972a53e&autoAuth=true&ctid=ff15c67c-2870-4e9f-adc1-7d61d855b667" frameborder="0" allowfullscreen="true"></iframe>
+ 
 </body>
+
+</html>
